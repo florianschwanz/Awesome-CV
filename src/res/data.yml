@@ -229,56 +229,7 @@ honors_title: Honors \& Awards
 honors_international_title: International
 honors_domestic_title: Domestic
 honor_international:
-- award: Finalist
-  event: DEFCON 25th CTF Hacking Competition World Final
-  location: Las Vegas, U.S.A
-  date: 2017
-- award: Finalist
-  event: DEFCON 21st CTF Hacking Competition World Final
-  location: Las Vegas, U.S.A
-  date: 2013
-- award: Finalist
-  event: DEFCON 19th CTF Hacking Competition World Final
-  location: Las Vegas, U.S.A
-  date: 2011
-- award: 6th Place
-  event: SECUINSIDE Hacking Competition World Final
-  location: Seoul, S.Korea
-  date: 2012
-
 honor_domestic:
-- award: 3rd Place
-  event: WITHCON Hacking Competition Final
-  location: Seoul, S.Korea
-  date: 2015
-- award: 3rd Place
-  event: WITHCON Hacking Competition Final
-  location: Seoul, S.Korea
-  date: 2015
-- award: Silver Prize
-  event: KISA HDCON Hacking Competition Final
-  location: Seoul, S.Korea
-  date: 2013
-- award: 2nd Award
-  event: HUST Hacking Festival
-  location: S.Korea
-  date: 2013
-- award: 3rd Award
-  event: HUST Hacking Festival
-  location: S.Korea
-  date: 2010
-- award: 3rd Award
-  event: Holyshield 3rd Hacking Festival
-  location: S.Korea
-  date: 2012
-- award: 2nd Award
-  event: Holyshield 3rd Hacking Festival
-  location: S.Korea
-  date: 2011
-- award: 5th Place
-  event: PADOCON Hacking Competition Final
-  location: Seoul, S.Korea
-  date: 2011
 
 #
 # Presentation
@@ -328,20 +279,4 @@ committee:
   committee: 2016 CODEGATE Hacking Competition World Final
   location: S.Korea
   date: 2016
-- position: Organizer \& Co-director
-  committee: 1st POSTECH Hackathon
-  location: S.Korea
-  date: 2013
-- position: Staff
-  committee: 7th Hacking Camp
-  location: S.Korea
-  date: 2012
-- position: Problem Writer
-  committee: 1st Hoseo University Teenager Hacking Competition
-  location: S.Korea
-  date: 2012
-- position: Staff \& Problem Writer
-  committee: JFF(Just for Fun) Hacking Competition
-  location: S.Korea
-  date: 2012
 ---

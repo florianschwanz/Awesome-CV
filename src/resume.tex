@@ -144,9 +144,7 @@ $endif$
         {$honor_international.event$} % Event
         {$honor_international.location$} % Location
         {$honor_international.date$} % Date(s)
-        $if(honor_international.description)$
-        { }
-        $endif$
+        {}
         $endfor$
     \end{cvhonors}
     $endif$
@@ -161,15 +159,7 @@ $endif$
         {$honor_domestic.event$} % Event
         {$honor_domestic.location$} % Location
         {$honor_domestic.date$} % Date(s)
-        $if(honor_domestic.description)$
-        {
-        \begin{cvitems}
-            $for(honor_domestic.description)$
-            \item {$honor_domestic.description$}
-            $endfor$
-        \end{cvitems}
-        }
-        $endif$
+        {}
         $endfor$
     \end{cvhonors}
     $endif$
